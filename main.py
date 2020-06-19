@@ -36,7 +36,7 @@ def send_message(chat_id, text='я робот!'):
     return r.json()
 
 
-@app.route('/', methods=['POST', 'GET'])
+@app.route('/1050128789:AAGO5PeFQ8DNdpTHLf_p37_aQWy505JhIF8', methods=['POST', 'GET'])
 def index():
     if request.method == 'POST':
         r = request.get_json()
