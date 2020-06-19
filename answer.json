@@ -1,0 +1,23 @@
+{
+  "update_id": 935618837,
+  "message": {
+    "message_id": 2,
+    "from": {
+      "id": 417623045,
+      "is_bot": false,
+      "first_name": "Han",
+      "last_name": "Solo",
+      "username": "HanSolo23",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 417623045,
+      "first_name": "Han",
+      "last_name": "Solo",
+      "username": "HanSolo23",
+      "type": "private"
+    },
+    "date": 1592556882,
+    "text": "привет"
+  }
+}
